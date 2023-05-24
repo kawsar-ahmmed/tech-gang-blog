@@ -1,0 +1,13 @@
+.active {
+    color: green !important;
+    font-weight: bold;
+}
+.meni-main a{
+text-decoration: none;
+color: black;
+padding: 0 10px;
+
+}
+.meni-main a:hover {
+    color: green;
+}
